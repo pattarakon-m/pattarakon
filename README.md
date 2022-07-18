@@ -1,5 +1,5 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
+# Read Only by HTML5 UP
+## html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -14,21 +14,21 @@ you can use for pretty much whatever.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-AJ
+# AJ
 aj@lkn.io | @ajlkn
 
 PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
-Credits:
+# Credits:
 
-	Demo Images:
+##	Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+##	Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
+##	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
